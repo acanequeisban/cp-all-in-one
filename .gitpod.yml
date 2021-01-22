@@ -1,7 +1,7 @@
 tasks:
   - before: sudo docker-up
     name: Docker Up
-  - openMode: tab-after
-    command: cd cp-all-in-one
-    command: docker-compose up -d
-    name: Confluent Kafka Cluster
+#  - openMode: tab-after
+#    command: cd cp-all-in-one
+#    command: docker-compose up -d
+#    name: Confluent Kafka Cluster
